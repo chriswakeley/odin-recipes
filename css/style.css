@@ -30,6 +30,14 @@ body {
     inline-size: 480px;
 }
 
+ul.list-content{
+    list-style-image:radial-gradient(#46e626, #855000)
+}
+
+ol.list-content{
+    list-style-type:lower-greek;
+}
+
 #main-title {
     font-size: 72px;
 }
