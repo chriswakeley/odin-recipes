@@ -16,6 +16,18 @@ body {
 .title.subsection {
     font-size: 48px;
     text-decoration:overline;
+    background-color: rgb(204, 209, 189);
+    inline-size: 640px;
+
+}
+
+.subsection{
+    background-color: rgb(228, 233, 213);
+}
+
+.text-content, .list-content {
+    font-size: 14px;
+    inline-size: 480px;
 }
 
 #main-title {
