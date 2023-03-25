@@ -38,6 +38,12 @@ ol.list-content{
     list-style-type:lower-greek;
 }
 
+.recipe-pic {
+    height: auto;
+    width: 400px;
+    border-radius: 50%;
+}
+
 #main-title {
     font-size: 72px;
 }
