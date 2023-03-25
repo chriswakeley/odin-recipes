@@ -9,7 +9,13 @@ body {
     color: rgb(56, 43, 0);
 }
 
+.title.subsection {
+    font-size: 48px;
+    text-decoration:overline;
+}
+
 #main-title {
     background-color: bisque;
     font-size: 72px;
 }
+
